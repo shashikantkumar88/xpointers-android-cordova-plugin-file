@@ -19,4 +19,4 @@
 
 # org.apache.cordova.file
 
-Plugin documentation: [doc/index.md](doc/index.md)
+cordova plugin add https://github.com/shashikantkumar88/xpointers-android-cordova-plugin-file.git
